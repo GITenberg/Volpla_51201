@@ -1,0 +1,36 @@
+_repo: Volpla_51201
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Francis, Dick
+    alias: Francis, Richard D.
+    gutenberg_agent_id: '33940'
+    url: http://www.gutenberg.org/2009/agents/33940
+creator:
+  author:
+    agent_name: Guin, Wyman
+    alias: Guin, Wyman Woods
+    birthdate: 1915
+    deathdate: 1989
+    gutenberg_agent_id: '46291'
+    url: http://www.gutenberg.org/2009/agents/46291
+    wikipedia: https://en.wikipedia.org/wiki/Wyman_Guin
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Scientists -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'California -- Fiction'
+- GITenberg
+title: Volpla
+url: http://www.gutenberg.org/ebooks/51201
